@@ -26,7 +26,6 @@ def validate_password(password):
         return 0
 
  
-# Driver Code
 if __name__ == '__main__':
     
     Userinput = int(input(' Enter 1 to register, 2 to Login, 3 for forget password :'))
